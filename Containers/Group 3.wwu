@@ -14,13 +14,6 @@
 					</ReferenceList>
 					<ChildrenList>
 						<Sound Name="ui_select" ID="{CC1CFF83-2447-43FD-9E54-3910DB682F3C}" ShortID="171521248">
-							<PropertyList>
-								<Property Name="Volume" Type="Real64">
-									<ValueList>
-										<Value>12</Value>
-									</ValueList>
-								</Property>
-							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{029BFE8C-20B7-4B95-8211-8EFAB95651A5}"/>
