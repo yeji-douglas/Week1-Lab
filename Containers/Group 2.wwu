@@ -14,6 +14,21 @@
 					</ReferenceList>
 					<ChildrenList>
 						<RandomSequenceContainer Name="sfx_player_run" ID="{178E44C8-3D8A-447D-8874-E0FCD278097B}" ShortID="199063849">
+							<PropertyList>
+								<Property Name="Pitch" Type="int32">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{B4E3B394-AC6B-4A62-AD05-47B4C708F273}">
+												<PropertyList>
+													<Property Name="Enabled" Type="bool" Value="True"/>
+													<Property Name="Max" Type="Real64" Value="2"/>
+													<Property Name="Min" Type="Real64" Value="-2"/>
+												</PropertyList>
+											</Modifier>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{029BFE8C-20B7-4B95-8211-8EFAB95651A5}"/>

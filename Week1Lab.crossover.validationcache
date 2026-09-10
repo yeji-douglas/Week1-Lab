@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="133">
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Attenuations\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Attenuations\Factory Attenuations.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Busses\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Containers\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Containers\Group 1.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Containers\Group 2.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Containers\Group 3.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Control Surface Sessions\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Conversion Settings\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Devices\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Effects\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Effects\Factory Effects.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Events\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Game Parameters\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Metadata\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Mixing Sessions\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Modulators\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Presets\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Presets\Factory Spatial Audio.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Queries\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Queries\Factory Queries.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Sidechain Mixes\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\SoundBanks\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\States\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Switches\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Triggers\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Virtual Acoustics\Default Work Unit.wwu" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Week1Lab.crossover.wsettings" DateLow="1789000449" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Week1-Lab\Week1Lab.wproj" DateLow="1789000449" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Documents\WwiseProjects\Week1Lab\Attenuations\Default Work Unit.wwu" DateLow="1788847813" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Documents\WwiseProjects\Week1Lab\Attenuations\Factory Attenuations.wwu" DateLow="1788566751" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Documents\WwiseProjects\Week1Lab\Busses\Default Work Unit.wwu" DateLow="1788847813" DateHigh="0"/>
@@ -28,5 +60,5 @@
 	<ValidationCacheItem File="Y:\Documents\WwiseProjects\Week1Lab\Triggers\Default Work Unit.wwu" DateLow="1788847813" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Documents\WwiseProjects\Week1Lab\Virtual Acoustics\Default Work Unit.wwu" DateLow="1788847813" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Documents\WwiseProjects\Week1Lab\Week1Lab.wproj" DateLow="1788847813" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\Library\Application Support\Audiokinetic\MediaPool\2\MediaPoolQuery.wsettings" DateLow="1788842067" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Library\Application Support\Audiokinetic\MediaPool\2\MediaPoolQuery.wsettings" DateLow="1787696891" DateHigh="0"/>
 </ValidationCache>
